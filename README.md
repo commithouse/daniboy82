@@ -1,5 +1,5 @@
 - 💬 vamos conversar sobre: docker, nuvem aws , java , angular ou outros assuntos...
-
+(let's talk about: docker, aws cloud, java, angular and other subjects...)
 <!--
 **daniboy82/daniboy82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
